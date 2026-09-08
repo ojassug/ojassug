@@ -1,0 +1,25 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Pull RSS Feed & Update README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Replace with your Medium, Substack, Dev.to, Hashnode, or personal blog RSS feed URL
+          feed_list: "https://medium.com/feed/@ojassug"
+          max_post_count: 5
