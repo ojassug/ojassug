@@ -26,20 +26,18 @@
 
 ---
 
-### 💻 System Info
+### 💻 System Specifications
 
-<pre>
-ojassug@workstation:~$ fastfetch --config profile.jsonc
-       /\          user     : Ojas Sugur (ojassug)
-      /  \         role     : Systems & AI Infrastructure Engineer
-     /\   \        status   : Available for high-impact engineering roles
-    /      \       focus    : Distributed Systems • AI Tooling • Compilers/AST
-   /   ,,   \      os       : Arch Linux x86_64 / Windows 11 (UCRT64)
-  /   |  |  -\     runtime  : Node 22 LTS • Python 3.11+ • GCC 14 (C++20)
- /_-''    ''-_\    cloud    : AWS (Bedrock, S3, EC2) • Azure • Docker
-                   db       : PostgreSQL • Oracle SQL • Redis
-                   uptime   : 100% commit fidelity & zero-drift CI
-</pre>
+| Component | Target / Environment |
+| :--- | :--- |
+| **Identity** | `ojassug` (Ojas Sugur) |
+| **Role & Status** | Systems & AI Infrastructure Engineer · *Available for high-impact roles* |
+| **Core Focus** | Distributed Systems • AI Developer Tooling • Compilers/AST Analysis |
+| **Workstation OS** | Arch Linux x86_64 / Windows 11 (UCRT64) |
+| **Runtime & Toolchain** | Node 22 LTS • Python 3.11+ • GCC 14 (C++20) |
+| **Cloud & Platforms** | AWS (Bedrock, S3, EC2) • Microsoft Azure • Docker |
+| **Databases & Cache** | PostgreSQL • Oracle SQL • Redis |
+| **Reliability Gate** | 100% commit fidelity & zero-drift offline verification |
 
 ---
 
