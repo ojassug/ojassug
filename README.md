@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111827,100:1e1e2e&height=220&section=header&text=Ojas%20Sugur&fontSize=54&fontAlignY=36&desc=Systems%20%C2%B7%20Distributed%20AI%20Infrastructure%20%C2%B7%20Deterministic%20Tooling&descFontSize=19&descAlignY=58&theme=tokyonight" width="100%" alt="Header Banner" />
+<img src="assets/header.svg" width="100%" alt="Header Banner" />
 
 # Systems & AI Infrastructure Engineer · Open-Source Maintainer
 
@@ -69,23 +69,21 @@ ojassug@workstation:~$ fastfetch --config profile.jsonc
 
 ---
 
-### ✍️ Technical Essays & Write-ups
-
-<!-- BLOG-POST-LIST:START -->
-- [Engineering Determinism: Static AST Analysis for Safe Schema Migrations](#) *(Sync pending)*
-- [Zero-Drift Context Optimization: Compressing LLM Prompts at Wire Speed](#) *(Sync pending)*
-- [Graph Modeling & Dijkstra's Algorithm in Content-Aware Seam Carving](#) *(Sync pending)*
-<!-- BLOG-POST-LIST:END -->
-
-> *Automated via `blog-post-workflow`. To link an external RSS feed (Substack, Medium, or personal blog), configure `.github/workflows/blog-post-workflow.yml` with your feed URL.*
-
----
-
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojassug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5" alt="Ojas Sugur's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojassug&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" width="48%" />
+
+<a href="https://github.com/ojassug">
+  <img src="https://streak-stats.demolab.com/?user=ojassug&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=7aa2f7&currStreakNum=c0caf5&sideNums=c0caf5&sideLabels=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Contributions & Streak" width="70%" />
+</a>
+
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ojassug&color=7aa2f7&style=flat-square&label=Profile+Views)](https://github.com/ojassug)
+[![Public Repos](https://img.shields.io/badge/Public_Repos-3-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/ojassug?tab=repositories)
+[![Followers](https://img.shields.io/badge/Followers-6-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/ojassug?tab=followers)
+[![Code Frequency](https://img.shields.io/badge/Commits-Active-059669?style=flat-square&logo=git&logoColor=white)](https://github.com/ojassug)
+
 </div>
 
 ---
